@@ -5,6 +5,40 @@
 	--wp-admin-theme-color-darker-10: #006ba1;
 	--wp-admin-theme-color-darker-20: #005a87;
 }
+.site-wrapper .footer {
+	background-color: #ffffff;
+}
+.site-wrapper .footer {
+	background-image: url('/assets/img/footer.png');
+	margin-bottom: 50px;
+}
+.site-wrapper .footer-content {
+	padding-top: 140px;
+	padding-bottom: 90px;
+	width: 900px;
+}
+.section.post-6 {
+	background-image: url('/assets/img/bg_elements.png');
+	background-color: #ffffff;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+
+.section.post-75 {
+	background-image: url('/assets/img/yellow_bg.png');
+	background-color: #ffffff;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: auto;
+	margin-bottom: 200px;
+}
+.fun {
+	width: 100%;
+	margin-bottom: 2rem;
+	background: #007cba;
+	border: none;
+}
 #start-resizable-editor-section {
 	display: none;
 }
